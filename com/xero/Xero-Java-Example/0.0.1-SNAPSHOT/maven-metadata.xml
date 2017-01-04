@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.xero</groupId>
+  <artifactId>Xero-Java-Example</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170104.235002</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170104235002</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>0.0.1-20170104.235002-1</value>
+        <updated>20170104235002</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20170104.235002-1</value>
+        <updated>20170104235002</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
