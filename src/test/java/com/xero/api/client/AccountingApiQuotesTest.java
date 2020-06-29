@@ -1,6 +1,5 @@
 package com.xero.api.client;
 
-
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.*;
@@ -11,13 +10,9 @@ import static org.hamcrest.Matchers.*;
 import com.xero.api.ApiClient;
 import com.xero.models.accounting.*;
 
-
-
 import org.threeten.bp.*;
 
 import java.util.UUID;
-
-
 
 public class AccountingApiQuotesTest {
 

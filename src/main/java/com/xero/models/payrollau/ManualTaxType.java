@@ -12,7 +12,6 @@
 
 package com.xero.models.payrollau;
 
-
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;
 

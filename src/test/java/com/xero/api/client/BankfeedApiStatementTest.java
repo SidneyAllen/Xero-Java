@@ -1,6 +1,5 @@
 package com.xero.api.client;
 
-
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.*;
@@ -11,12 +10,7 @@ import static org.hamcrest.Matchers.*;
 import com.xero.api.ApiClient;
 import com.xero.models.bankfeeds.*;
 
-
-
 import org.threeten.bp.*;
-
-
-
 
 public class BankfeedApiStatementTest {
 

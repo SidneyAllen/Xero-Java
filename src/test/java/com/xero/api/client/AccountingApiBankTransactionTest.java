@@ -1,6 +1,5 @@
 package com.xero.api.client;
 
-
 import org.junit.*;
 
 import static org.hamcrest.MatcherAssert.*;
@@ -11,13 +10,11 @@ import com.xero.models.accounting.*;
 
 import java.io.File;
 
-
 import org.threeten.bp.*;
 import java.io.IOException;
 
 import java.io.File;
 import java.io.IOException;
-
 
 import java.util.UUID;
 import java.math.BigDecimal;
