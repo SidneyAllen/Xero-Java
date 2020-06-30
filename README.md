@@ -1,4 +1,4 @@
-# Xero-Java OAuth 2.0 - test workflow 2
+# Xero-Java OAuth 2.0 - test workflow 4
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.xeroapi/xero-java.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.xeroapi%22%20AND%20a:%22xero-java%22)
 
