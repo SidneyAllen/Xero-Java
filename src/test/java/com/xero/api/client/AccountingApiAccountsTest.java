@@ -1,6 +1,5 @@
 package com.xero.api.client;
 
-
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.*;
@@ -13,13 +12,11 @@ import com.xero.models.accounting.*;
 
 import java.io.File;
 
-
 import org.threeten.bp.*;
 
 import java.util.UUID;
 
 import java.io.File;
-
 
 public class AccountingApiAccountsTest {
 

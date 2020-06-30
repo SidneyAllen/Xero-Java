@@ -1,6 +1,5 @@
 package com.xero.api.client;
 
-
 import org.junit.*;
 
 import static org.hamcrest.MatcherAssert.*;
@@ -9,14 +8,10 @@ import static org.hamcrest.Matchers.*;
 import com.xero.api.ApiClient;
 import com.xero.models.accounting.*;
 
-
-
 import org.threeten.bp.*;
 import java.io.IOException;
 
 import java.io.IOException;
-
-
 
 public class AccountingApiTaxRatesTest {
 

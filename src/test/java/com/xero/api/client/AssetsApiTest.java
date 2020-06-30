@@ -1,6 +1,5 @@
 package com.xero.api.client;
 
-
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.*;
@@ -12,14 +11,11 @@ import com.xero.api.ApiClient;
 import com.xero.api.XeroApiException;
 import com.xero.models.assets.*;
 
-
-
 import org.threeten.bp.*;
 
 import java.util.UUID;
 
 import java.util.List;
-
 
 public class AssetsApiTest {
 

@@ -1,6 +1,5 @@
 package com.xero.api.client;
 
-
 import org.junit.*;
 
 import static org.hamcrest.MatcherAssert.*;
@@ -10,13 +9,10 @@ import com.xero.api.ApiClient;
 import com.xero.models.payrolluk.*;
 import com.xero.models.payrolluk.Benefit.CategoryEnum;
 
-
-
 import org.threeten.bp.*;
 import java.io.IOException;
 
 import java.io.IOException;
-
 
 import java.util.UUID;
 
